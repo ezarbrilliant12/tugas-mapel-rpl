@@ -1,0 +1,36 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+}
+
+.nama {
+    font-weight: bold;
+}
+
+.hobi {
+    background-color: yellow;
+    padding: 10px;
+}
+
+.motto {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#judul {
+    font-size: 30px;
+}
